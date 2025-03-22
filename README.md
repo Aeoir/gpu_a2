@@ -1,4 +1,4 @@
-# gpu_hello
+# GPU
 CUDA Vector Addition
 This project demonstrates GPU acceleration using CUDA for a simple vector addition operation. It includes a CUDA kernel written in C/C++ to add two vectors in parallel on NVIDIA GPUs.
 
